@@ -18,9 +18,6 @@ The app addresses the issue of low financial literacy, which remains a persisten
 
 ## Demo Video
 Here’s a demo video showcasing the features of the app.
-
-https://github.com/user-attachments/assets/22ec887f-e48d-4db3-a373-5355095b6d8a
-
 ## Features
 Here are the 4 main features of the app:
 1. Overview - Easily view your financial summary, including total balance, income, and expenses. The data can be filtered by daily, weekly, monthly, or all-time on the Home screen.
