@@ -99,5 +99,3 @@ To build this project, you need the latest stable version of [Android Studio](ht
 - [ ] Multi-currency support  
 - [ ] Statistics and insights  
 
-## License
-DaMoMe is open-source and released under the [MIT License](LICENSE).
