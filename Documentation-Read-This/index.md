@@ -5,7 +5,7 @@ It helps users track their **income** and **expenses**, manage transaction *cate
 The app includes **AI features** like extracting transaction details from images (OCR) and a conversational financial assistant named "DaMommy" that can provide insights based on user data using *Retrieval-Augmented Generation (RAG)*.
 
 
-**Source Repository:** [https://github.com/harissabil/DaMoMe](https://github.com/badreddine7/Damame/)
+**Source Repository:** [https://github.com/badreddine7/Damame/](https://github.com/badreddine7/Damame/)
 
 ```mermaid
 flowchart TD
